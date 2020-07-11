@@ -1,5 +1,5 @@
 # LIF
-Lock-in frequency meter: simulation and evaluation source code package, please open in Labview 2016 or later.
+Lock-in frequency meter: simulation and evaluation source code package, please open them in Labview 2016 or later.
 
 1. The simulation programs are supplemented with a journal paper (Rev. Sci. Instrum. 2020, 91, 075106, DOI:10.1063/5.0002377).All codes have been coded in English and can generate Gaussian white noise, mix signals with set SNRs, perform LIF calculations, and obtain frequency, amplitude, phase difference, and SNR values.
 
